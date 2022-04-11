@@ -1,1 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="alexander-ilg.github.io/" rel="alternate" type="text/html" /><updated>2022-04-11T06:58:04+02:00</updated><id>alexander-ilg.github.io/feed.xml</id><title type="html">alexander ilg microblog</title><subtitle>Just some things that come to my mind</subtitle><entry><title type="html"></title><link href="alexander-ilg.github.io/knowhow/2022/04/11/over-the-weekend.html" rel="alternate" type="text/html" title="" /><published>2022-04-11T06:49:28+02:00</published><updated>2022-04-11T06:49:28+02:00</updated><id>alexander-ilg.github.io/knowhow/2022/04/11/over-the-weekend</id><content type="html" xml:base="alexander-ilg.github.io/knowhow/2022/04/11/over-the-weekend.html"><![CDATA[<p>What I have learned over the weekend: Setting up GitHub pages and installing, configuring and using Jekyll. Next step: Make the creation of new posts easier.</p>]]></content><author><name></name></author><category term="knowhow" /><summary type="html"><![CDATA[What I have learned over the weekend: Setting up GitHub pages and installing, configuring and using Jekyll. Next step: Make the creation of new posts easier.]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/jekyll/update/2022/04/09/sap-abap.html" rel="alternate" type="text/html" title="" /><published>2022-04-09T18:59:28+02:00</published><updated>2022-04-09T18:59:28+02:00</updated><id>alexander-ilg.github.io/jekyll/update/2022/04/09/sap-abap</id><content type="html" xml:base="alexander-ilg.github.io/jekyll/update/2022/04/09/sap-abap.html"><![CDATA[<p>I don’t understand why SAP has not moved ABAP as their central technology into the SAP Cloud (or Business Technology Platform as it is called now). ABAP is truly special, powerful and great. Why not use that instead of Node.js and Java …</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[I don’t understand why SAP has not moved ABAP as their central technology into the SAP Cloud (or Business Technology Platform as it is called now). ABAP is truly special, powerful and great. Why not use that instead of Node.js and Java …]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/jekyll/update/2022/04/09/something-new.html" rel="alternate" type="text/html" title="" /><published>2022-04-09T18:53:28+02:00</published><updated>2022-04-09T18:53:28+02:00</updated><id>alexander-ilg.github.io/jekyll/update/2022/04/09/something-new</id><content type="html" xml:base="alexander-ilg.github.io/jekyll/update/2022/04/09/something-new.html"><![CDATA[<p>Trying something new - writing a microblog with Jekyll, hosted as static pages on GitHub. Let’s see how it goes</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Trying something new - writing a microblog with Jekyll, hosted as static pages on GitHub. Let’s see how it goes]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="alexander-ilg.github.io/" rel="alternate" type="text/html" /><updated>2022-04-11T07:33:51+02:00</updated><id>alexander-ilg.github.io/feed.xml</id><title type="html">alexander ilg microblog</title><subtitle>Just some things that come to my mind</subtitle><entry><title type="html">SAP PM/CS Transactions</title><link href="alexander-ilg.github.io/jekyll/update/sap/2022/04/11/sap-pm-cs-transactions.html" rel="alternate" type="text/html" title="SAP PM/CS Transactions" /><published>2022-04-11T07:31:00+02:00</published><updated>2022-04-11T07:31:00+02:00</updated><id>alexander-ilg.github.io/jekyll/update/sap/2022/04/11/sap-pm-cs-transactions</id><content type="html" xml:base="alexander-ilg.github.io/jekyll/update/sap/2022/04/11/sap-pm-cs-transactions.html"><![CDATA[<p>The following is a list of useful and frequently used transactions in the SAP modules PM (Plant Maintenance) and CS (Customer Service) that I just re-discovered in an old Google Site of mine.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Transaction Code</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>IW31</td>
+      <td>Create Work/Service Order</td>
+    </tr>
+    <tr>
+      <td>IW32</td>
+      <td>Edit Work/Service Order</td>
+    </tr>
+    <tr>
+      <td>IW33</td>
+      <td>Display Work/Service Order</td>
+    </tr>
+    <tr>
+      <td>IW37</td>
+      <td>Work/Service Order selection by operation</td>
+    </tr>
+    <tr>
+      <td>IW38</td>
+      <td>Work/Service Order selection</td>
+    </tr>
+    <tr>
+      <td>IW41</td>
+      <td>Create Order Confirmation</td>
+    </tr>
+    <tr>
+      <td>IW21</td>
+      <td>Create Notification</td>
+    </tr>
+    <tr>
+      <td>IW22</td>
+      <td>Edit Notification</td>
+    </tr>
+    <tr>
+      <td>IW23</td>
+      <td>Display Notification</td>
+    </tr>
+    <tr>
+      <td>IE01</td>
+      <td>Create Equipment</td>
+    </tr>
+    <tr>
+      <td>IE02</td>
+      <td>Edit Equipment</td>
+    </tr>
+    <tr>
+      <td>IE03</td>
+      <td>Display Equipment</td>
+    </tr>
+    <tr>
+      <td>IL01</td>
+      <td>Create Functional Location</td>
+    </tr>
+    <tr>
+      <td>IL02</td>
+      <td>Edit Functional Location</td>
+    </tr>
+    <tr>
+      <td>IL03</td>
+      <td>Display Functional Location</td>
+    </tr>
+    <tr>
+      <td>CL02</td>
+      <td>Create Class</td>
+    </tr>
+    <tr>
+      <td>CT04</td>
+      <td>Create Characteristics</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>It might help in the future.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><category term="SAP" /><summary type="html"><![CDATA[The following is a list of useful and frequently used transactions in the SAP modules PM (Plant Maintenance) and CS (Customer Service) that I just re-discovered in an old Google Site of mine.]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/knowhow/2022/04/11/over-the-weekend.html" rel="alternate" type="text/html" title="" /><published>2022-04-11T06:49:28+02:00</published><updated>2022-04-11T06:49:28+02:00</updated><id>alexander-ilg.github.io/knowhow/2022/04/11/over-the-weekend</id><content type="html" xml:base="alexander-ilg.github.io/knowhow/2022/04/11/over-the-weekend.html"><![CDATA[<p>What I have learned over the weekend: Setting up GitHub pages and installing, configuring and using Jekyll. Next step: Make the creation of new posts easier.</p>]]></content><author><name></name></author><category term="knowhow" /><summary type="html"><![CDATA[What I have learned over the weekend: Setting up GitHub pages and installing, configuring and using Jekyll. Next step: Make the creation of new posts easier.]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/jekyll/update/2022/04/09/sap-abap.html" rel="alternate" type="text/html" title="" /><published>2022-04-09T18:59:28+02:00</published><updated>2022-04-09T18:59:28+02:00</updated><id>alexander-ilg.github.io/jekyll/update/2022/04/09/sap-abap</id><content type="html" xml:base="alexander-ilg.github.io/jekyll/update/2022/04/09/sap-abap.html"><![CDATA[<p>I don’t understand why SAP has not moved ABAP as their central technology into the SAP Cloud (or Business Technology Platform as it is called now). ABAP is truly special, powerful and great. Why not use that instead of Node.js and Java …</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[I don’t understand why SAP has not moved ABAP as their central technology into the SAP Cloud (or Business Technology Platform as it is called now). ABAP is truly special, powerful and great. Why not use that instead of Node.js and Java …]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/jekyll/update/2022/04/09/something-new.html" rel="alternate" type="text/html" title="" /><published>2022-04-09T18:53:28+02:00</published><updated>2022-04-09T18:53:28+02:00</updated><id>alexander-ilg.github.io/jekyll/update/2022/04/09/something-new</id><content type="html" xml:base="alexander-ilg.github.io/jekyll/update/2022/04/09/something-new.html"><![CDATA[<p>Trying something new - writing a microblog with Jekyll, hosted as static pages on GitHub. Let’s see how it goes</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Trying something new - writing a microblog with Jekyll, hosted as static pages on GitHub. Let’s see how it goes]]></summary></entry></feed>

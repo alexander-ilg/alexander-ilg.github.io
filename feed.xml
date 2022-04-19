@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="alexander-ilg.github.io/" rel="alternate" type="text/html" /><updated>2022-04-19T17:33:25+02:00</updated><id>alexander-ilg.github.io/feed.xml</id><title type="html">alexander ilg microblog</title><subtitle>Just some things that come to my mind</subtitle><entry><title type="html">The best computer I have ever used</title><link href="alexander-ilg.github.io/jekyll/update/2022/04/19/MacBookPro-M1Max.html" rel="alternate" type="text/html" title="The best computer I have ever used" /><published>2022-04-19T16:59:28+02:00</published><updated>2022-04-19T16:59:28+02:00</updated><id>alexander-ilg.github.io/jekyll/update/2022/04/19/MacBookPro-M1Max</id><content type="html" xml:base="alexander-ilg.github.io/jekyll/update/2022/04/19/MacBookPro-M1Max.html"><![CDATA[<p>Since January I am working with the new 16” MacBook Pro, M1 Max CPU and 64 GB RAM. I have 3 external displays connected and I wonder if the fan is broken. I think I never heard it once. In my old - just one generation old - MacBook Pro, the fan was running nonestop when I connected two external displays. My current laptop is clearly the best computer I have ever used.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="alexander-ilg.github.io/" rel="alternate" type="text/html" /><updated>2022-04-19T17:39:59+02:00</updated><id>alexander-ilg.github.io/feed.xml</id><title type="html">alexander ilg microblog</title><subtitle>Just some things that come to my mind</subtitle><entry><title type="html"></title><link href="alexander-ilg.github.io/nature/2022/04/19/mydailywalk.html" rel="alternate" type="text/html" title="" /><published>2022-04-19T17:33:28+02:00</published><updated>2022-04-19T17:33:28+02:00</updated><id>alexander-ilg.github.io/nature/2022/04/19/mydailywalk</id><content type="html" xml:base="alexander-ilg.github.io/nature/2022/04/19/mydailywalk.html"><![CDATA[<p>This is where I walk daily …</p>
+
+<p><img src="/assets/MyDailyWalk.jpg" alt="MacBook Pro" /></p>]]></content><author><name></name></author><category term="nature" /><summary type="html"><![CDATA[This is where I walk daily …]]></summary></entry><entry><title type="html">The best computer I have ever used</title><link href="alexander-ilg.github.io/macbookpro/2022/04/19/MacBookPro-M1Max.html" rel="alternate" type="text/html" title="The best computer I have ever used" /><published>2022-04-19T16:59:28+02:00</published><updated>2022-04-19T16:59:28+02:00</updated><id>alexander-ilg.github.io/macbookpro/2022/04/19/MacBookPro-M1Max</id><content type="html" xml:base="alexander-ilg.github.io/macbookpro/2022/04/19/MacBookPro-M1Max.html"><![CDATA[<p>Since January I am working with the new 16” MacBook Pro, M1 Max CPU and 64 GB RAM. I have 3 external displays connected and I wonder if the fan is broken. I think I never heard it once. In my old - just one generation old - MacBook Pro, the fan was running nonestop when I connected two external displays. My current laptop is clearly the best computer I have ever used.</p>
 
 <p><img src="/assets/macbookpro_m1max.png" alt="MacBook Pro" /></p>
 
-<p>It comes with a great keyboard, good enough speakers, a fantastic display and all the ports I need.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Since January I am working with the new 16” MacBook Pro, M1 Max CPU and 64 GB RAM. I have 3 external displays connected and I wonder if the fan is broken. I think I never heard it once. In my old - just one generation old - MacBook Pro, the fan was running nonestop when I connected two external displays. My current laptop is clearly the best computer I have ever used.]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/hiphop/2022/04/18/hopsin.html" rel="alternate" type="text/html" title="" /><published>2022-04-18T10:59:28+02:00</published><updated>2022-04-18T10:59:28+02:00</updated><id>alexander-ilg.github.io/hiphop/2022/04/18/hopsin</id><content type="html" xml:base="alexander-ilg.github.io/hiphop/2022/04/18/hopsin.html"><![CDATA[<p>Since more than 35 years I am listening to <strong>hip hop</strong>, but only two weeks ago I discovered <strong><a href="https://en.wikipedia.org/wiki/Hopsin">Hopsin</a></strong>. I really like his style and flow and he has some <a href="https://youtu.be/hRVOOwFNp5U">dope tracks</a>.</p>]]></content><author><name></name></author><category term="hiphop" /><summary type="html"><![CDATA[Since more than 35 years I am listening to hip hop, but only two weeks ago I discovered Hopsin. I really like his style and flow and he has some dope tracks.]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/the-end-of-the-world/2022/04/15/atlassian-outage.html" rel="alternate" type="text/html" title="" /><published>2022-04-15T14:59:28+02:00</published><updated>2022-04-15T14:59:28+02:00</updated><id>alexander-ilg.github.io/the-end-of-the-world/2022/04/15/atlassian-outage</id><content type="html" xml:base="alexander-ilg.github.io/the-end-of-the-world/2022/04/15/atlassian-outage.html"><![CDATA[<p>The Atlassian outage … how can you have a script that does this? Executing this should require the four eye principle. This was really bad, but I ask myself: <em>Who do I trust more with my infrastructure?</em> Myself or a company like Atlassian? The answer is: Definately not me!</p>]]></content><author><name></name></author><category term="the-end-of-the-world" /><summary type="html"><![CDATA[The Atlassian outage … how can you have a script that does this? Executing this should require the four eye principle. This was really bad, but I ask myself: Who do I trust more with my infrastructure? Myself or a company like Atlassian? The answer is: Definately not me!]]></summary></entry><entry><title type="html">Salesforce Lightning Font</title><link href="alexander-ilg.github.io/salesforce/2022/04/13/salesforce-lightning-default-font.html" rel="alternate" type="text/html" title="Salesforce Lightning Font" /><published>2022-04-13T09:59:28+02:00</published><updated>2022-04-13T09:59:28+02:00</updated><id>alexander-ilg.github.io/salesforce/2022/04/13/salesforce-lightning-default-font</id><content type="html" xml:base="alexander-ilg.github.io/salesforce/2022/04/13/salesforce-lightning-default-font.html"><![CDATA[<p>Today I learned that the Salesforce Lightning UI doesn’t have a it’s own font, or a specific default font, but it is using the system default of the operating system, it is running on. I think it is a smart move - Microsoft, Apple and Google invest enough resources in these fonts, so why reinvent the wheel?</p>
+<p>It comes with a great keyboard, good enough speakers, a fantastic display and all the ports I need.</p>]]></content><author><name></name></author><category term="macbookpro" /><summary type="html"><![CDATA[Since January I am working with the new 16” MacBook Pro, M1 Max CPU and 64 GB RAM. I have 3 external displays connected and I wonder if the fan is broken. I think I never heard it once. In my old - just one generation old - MacBook Pro, the fan was running nonestop when I connected two external displays. My current laptop is clearly the best computer I have ever used.]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/hiphop/2022/04/18/hopsin.html" rel="alternate" type="text/html" title="" /><published>2022-04-18T10:59:28+02:00</published><updated>2022-04-18T10:59:28+02:00</updated><id>alexander-ilg.github.io/hiphop/2022/04/18/hopsin</id><content type="html" xml:base="alexander-ilg.github.io/hiphop/2022/04/18/hopsin.html"><![CDATA[<p>Since more than 35 years I am listening to <strong>hip hop</strong>, but only two weeks ago I discovered <strong><a href="https://en.wikipedia.org/wiki/Hopsin">Hopsin</a></strong>. I really like his style and flow and he has some <a href="https://youtu.be/hRVOOwFNp5U">dope tracks</a>.</p>]]></content><author><name></name></author><category term="hiphop" /><summary type="html"><![CDATA[Since more than 35 years I am listening to hip hop, but only two weeks ago I discovered Hopsin. I really like his style and flow and he has some dope tracks.]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/the-end-of-the-world/2022/04/15/atlassian-outage.html" rel="alternate" type="text/html" title="" /><published>2022-04-15T14:59:28+02:00</published><updated>2022-04-15T14:59:28+02:00</updated><id>alexander-ilg.github.io/the-end-of-the-world/2022/04/15/atlassian-outage</id><content type="html" xml:base="alexander-ilg.github.io/the-end-of-the-world/2022/04/15/atlassian-outage.html"><![CDATA[<p>The Atlassian outage … how can you have a script that does this? Executing this should require the four eye principle. This was really bad, but I ask myself: <em>Who do I trust more with my infrastructure?</em> Myself or a company like Atlassian? The answer is: Definately not me!</p>]]></content><author><name></name></author><category term="the-end-of-the-world" /><summary type="html"><![CDATA[The Atlassian outage … how can you have a script that does this? Executing this should require the four eye principle. This was really bad, but I ask myself: Who do I trust more with my infrastructure? Myself or a company like Atlassian? The answer is: Definately not me!]]></summary></entry><entry><title type="html">Salesforce Lightning Font</title><link href="alexander-ilg.github.io/salesforce/2022/04/13/salesforce-lightning-default-font.html" rel="alternate" type="text/html" title="Salesforce Lightning Font" /><published>2022-04-13T09:59:28+02:00</published><updated>2022-04-13T09:59:28+02:00</updated><id>alexander-ilg.github.io/salesforce/2022/04/13/salesforce-lightning-default-font</id><content type="html" xml:base="alexander-ilg.github.io/salesforce/2022/04/13/salesforce-lightning-default-font.html"><![CDATA[<p>Today I learned that the Salesforce Lightning UI doesn’t have a it’s own font, or a specific default font, but it is using the system default of the operating system, it is running on. I think it is a smart move - Microsoft, Apple and Google invest enough resources in these fonts, so why reinvent the wheel?</p>
 
 <p>For <strong>Windows 11</strong> the font is <a href="https://docs.microsoft.com/en-us/windows/apps/design/signature-experiences/typography">Segoe UI Variable</a>, for <strong>macOS</strong> <a href="https://developer.apple.com/design/human-interface-guidelines/macos/visual-design/typography/">San Francisco</a>.</p>
 
@@ -60,85 +62,4 @@ By integrating data into Salesforce that was previously only available within th
 <p>Overcast is drastically reducing the cost of the integration of SAP into Salesforce, as it offers more than 100 pre-build components, that are ready to use. This is eliminating the need of writting custom code. Projects that would take months or years can now be implemented in weeks. Instead of 1000s of person days, we only talk about a handful.</p>
 
 <p>We and our partners support you with our know-how in the conception and implementation of your Salesforce/SAP integration, so that your ERP application and CRM platform can communicate securely with each other. This allows you to concentrate on your core business and not have to worry about technical details. If you want to know more, go to <a href="https://www.vigience.com">www.vigience.com</a>.</p>]]></content><author><name></name></author><category term="SAP" /><summary type="html"><![CDATA[In this blog I want to explain why Overcast (for which I am VP of product management) is the perfect tool to integrate SAP into Salesforce. Many companies that use or want to use cloud solutions from Salesforce in sales, marketing and service often also have an ERP system, usually SAP ERP, S/4HANA or Business One. Both systems – Salesforce and SAP - contain information that must be maintained in both systems. SAP’s ERP system is used to manage the operational, financial and HR processes of the organization and store them in a central database. With the cloud-based CRM application from salesforce.com, the sales team can transfer information about sales calls, customer visits and sales directly into the system (the same – of course – applies to service technicians who log work orders, working time and consumed products). With the Salesforce B2B and B2C solutions, customers can place orders and manage their customer accounts. A Salesforce/SAP Integration is the natural next steps after setting up both solutions. It is about exchanging master and transactional data between the SAP ERP system and Salesforce’s cloud-based solution - either in real-time or by replicating data - to provide its users with immediate access to all information. By integrating the two systems, processes are enabled across application boundaries and duplicate data entry and management is avoided. In order to synchronise the affected business processes and bridge the technical gap between SAP and Salesforce, a process and data integration of the cloud application with the existing SAP system landscape (either on premise or also in the cloud) is required. Particular attention is paid here to the integration with the ERP system in order to realise continuous business processes and to fully exploit the potential of the CRM system. This largely involves bidirectional synchronisations of contact data such as contact persons and addresses, as well as transaction data such as incoming orders, order status, product and price lists, quotations, orders, invoices, delivery data, etc.]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/sap/2022/04/11/history-sap-blog.html" rel="alternate" type="text/html" title="" /><published>2022-04-11T11:23:28+02:00</published><updated>2022-04-11T11:23:28+02:00</updated><id>alexander-ilg.github.io/sap/2022/04/11/history-sap-blog</id><content type="html" xml:base="alexander-ilg.github.io/sap/2022/04/11/history-sap-blog.html"><![CDATA[<p>Just found some historic documents - my first blog posts from 2006, back then in the SAP Developer Network Blog: <a href="https://blogs.sap.com/tag/alexander-ilg/">https://blogs.sap.com/tag/alexander-ilg/</a></p>]]></content><author><name></name></author><category term="sap" /><summary type="html"><![CDATA[Just found some historic documents - my first blog posts from 2006, back then in the SAP Developer Network Blog: https://blogs.sap.com/tag/alexander-ilg/]]></summary></entry><entry><title type="html"></title><link href="alexander-ilg.github.io/sap/salesforce/overcast/2022/04/11/new-sap-salesforce-implementation.html" rel="alternate" type="text/html" title="" /><published>2022-04-11T11:01:28+02:00</published><updated>2022-04-11T11:01:28+02:00</updated><id>alexander-ilg.github.io/sap/salesforce/overcast/2022/04/11/new-sap-salesforce-implementation</id><content type="html" xml:base="alexander-ilg.github.io/sap/salesforce/overcast/2022/04/11/new-sap-salesforce-implementation.html"><![CDATA[<p>I am starting a new Salesforce/SAP integration project with <a href="https://www.vigience.com">Overcast</a> today. 
-SAP PM/MM/SD/FI with customer master, prices, sales orders, purchase orders, shipments, invoices, material, inventory and much more.</p>]]></content><author><name></name></author><category term="SAP" /><category term="Salesforce" /><category term="Overcast" /><summary type="html"><![CDATA[I am starting a new Salesforce/SAP integration project with Overcast today. SAP PM/MM/SD/FI with customer master, prices, sales orders, purchase orders, shipments, invoices, material, inventory and much more.]]></summary></entry><entry><title type="html">SAP PM/CS Transactions</title><link href="alexander-ilg.github.io/jekyll/update/sap/2022/04/11/sap-pm-cs-transactions.html" rel="alternate" type="text/html" title="SAP PM/CS Transactions" /><published>2022-04-11T07:31:00+02:00</published><updated>2022-04-11T07:31:00+02:00</updated><id>alexander-ilg.github.io/jekyll/update/sap/2022/04/11/sap-pm-cs-transactions</id><content type="html" xml:base="alexander-ilg.github.io/jekyll/update/sap/2022/04/11/sap-pm-cs-transactions.html"><![CDATA[<p>The following is a list of useful and frequently used transactions in the SAP modules PM (Plant Maintenance) and CS (Customer Service) that I just re-discovered in an old Google Site of mine.</p>
-
-<table>
-  <thead>
-    <tr>
-      <th>Transaction Code</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>IW31</td>
-      <td>Create Work/Service Order</td>
-    </tr>
-    <tr>
-      <td>IW32</td>
-      <td>Edit Work/Service Order</td>
-    </tr>
-    <tr>
-      <td>IW33</td>
-      <td>Display Work/Service Order</td>
-    </tr>
-    <tr>
-      <td>IW37</td>
-      <td>Work/Service Order selection by operation</td>
-    </tr>
-    <tr>
-      <td>IW38</td>
-      <td>Work/Service Order selection</td>
-    </tr>
-    <tr>
-      <td>IW41</td>
-      <td>Create Order Confirmation</td>
-    </tr>
-    <tr>
-      <td>IW21</td>
-      <td>Create Notification</td>
-    </tr>
-    <tr>
-      <td>IW22</td>
-      <td>Edit Notification</td>
-    </tr>
-    <tr>
-      <td>IW23</td>
-      <td>Display Notification</td>
-    </tr>
-    <tr>
-      <td>IE01</td>
-      <td>Create Equipment</td>
-    </tr>
-    <tr>
-      <td>IE02</td>
-      <td>Edit Equipment</td>
-    </tr>
-    <tr>
-      <td>IE03</td>
-      <td>Display Equipment</td>
-    </tr>
-    <tr>
-      <td>IL01</td>
-      <td>Create Functional Location</td>
-    </tr>
-    <tr>
-      <td>IL02</td>
-      <td>Edit Functional Location</td>
-    </tr>
-    <tr>
-      <td>IL03</td>
-      <td>Display Functional Location</td>
-    </tr>
-    <tr>
-      <td>CL02</td>
-      <td>Create Class</td>
-    </tr>
-    <tr>
-      <td>CT04</td>
-      <td>Create Characteristics</td>
-    </tr>
-  </tbody>
-</table>
-
-<p>It might help in the future.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><category term="SAP" /><summary type="html"><![CDATA[The following is a list of useful and frequently used transactions in the SAP modules PM (Plant Maintenance) and CS (Customer Service) that I just re-discovered in an old Google Site of mine.]]></summary></entry></feed>
+SAP PM/MM/SD/FI with customer master, prices, sales orders, purchase orders, shipments, invoices, material, inventory and much more.</p>]]></content><author><name></name></author><category term="SAP" /><category term="Salesforce" /><category term="Overcast" /><summary type="html"><![CDATA[I am starting a new Salesforce/SAP integration project with Overcast today. SAP PM/MM/SD/FI with customer master, prices, sales orders, purchase orders, shipments, invoices, material, inventory and much more.]]></summary></entry></feed>

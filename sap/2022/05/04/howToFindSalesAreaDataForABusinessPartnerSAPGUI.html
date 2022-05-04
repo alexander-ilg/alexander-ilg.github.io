@@ -3,21 +3,21 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>SAP - still inconsistent after 50 years | alexander ilg microblog</title>
+<title>How can I find the Sales Area information for a business partner in SAP? | alexander ilg microblog</title>
 <meta name="generator" content="Jekyll v4.2.2" />
-<meta property="og:title" content="SAP - still inconsistent after 50 years" />
+<meta property="og:title" content="How can I find the Sales Area information for a business partner in SAP?" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="I know that I am complaining about small, minor things here, but please explain me this: What does the dialog titles “Hit List 17 Entries” and “Table Row 40 Entries” tell me? Nothing! This is from transaction VA02 (edit sales order) for Inco Terms (left) and Payment Terms (right). I wonder why something like this shipped in the first place and why it was not considered a bug in every single release that went out the door since then. There are three films and three tv shows with the name “The Hit List”, but I doubt SAP is referring to any of them …" />
-<meta property="og:description" content="I know that I am complaining about small, minor things here, but please explain me this: What does the dialog titles “Hit List 17 Entries” and “Table Row 40 Entries” tell me? Nothing! This is from transaction VA02 (edit sales order) for Inco Terms (left) and Payment Terms (right). I wonder why something like this shipped in the first place and why it was not considered a bug in every single release that went out the door since then. There are three films and three tv shows with the name “The Hit List”, but I doubt SAP is referring to any of them …" />
-<link rel="canonical" href="alexander-ilg.github.io/sap/2022/04/21/sap-gui-inconsistency.html" />
-<meta property="og:url" content="alexander-ilg.github.io/sap/2022/04/21/sap-gui-inconsistency.html" />
+<meta name="description" content="Follow the following steps in the SAP GUI." />
+<meta property="og:description" content="Follow the following steps in the SAP GUI." />
+<link rel="canonical" href="alexander-ilg.github.io/sap/2022/05/04/howToFindSalesAreaDataForABusinessPartnerSAPGUI.html" />
+<meta property="og:url" content="alexander-ilg.github.io/sap/2022/05/04/howToFindSalesAreaDataForABusinessPartnerSAPGUI.html" />
 <meta property="og:site_name" content="alexander ilg microblog" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-04-21T07:42:00+02:00" />
+<meta property="article:published_time" content="2022-05-04T02:42:42+02:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="SAP - still inconsistent after 50 years" />
+<meta property="twitter:title" content="How can I find the Sales Area information for a business partner in SAP?" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-04-21T07:42:00+02:00","datePublished":"2022-04-21T07:42:00+02:00","description":"I know that I am complaining about small, minor things here, but please explain me this: What does the dialog titles “Hit List 17 Entries” and “Table Row 40 Entries” tell me? Nothing! This is from transaction VA02 (edit sales order) for Inco Terms (left) and Payment Terms (right). I wonder why something like this shipped in the first place and why it was not considered a bug in every single release that went out the door since then. There are three films and three tv shows with the name “The Hit List”, but I doubt SAP is referring to any of them …","headline":"SAP - still inconsistent after 50 years","mainEntityOfPage":{"@type":"WebPage","@id":"alexander-ilg.github.io/sap/2022/04/21/sap-gui-inconsistency.html"},"url":"alexander-ilg.github.io/sap/2022/04/21/sap-gui-inconsistency.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-05-04T02:42:42+02:00","datePublished":"2022-05-04T02:42:42+02:00","description":"Follow the following steps in the SAP GUI.","headline":"How can I find the Sales Area information for a business partner in SAP?","mainEntityOfPage":{"@type":"WebPage","@id":"alexander-ilg.github.io/sap/2022/05/04/howToFindSalesAreaDataForABusinessPartnerSAPGUI.html"},"url":"alexander-ilg.github.io/sap/2022/05/04/howToFindSalesAreaDataForABusinessPartnerSAPGUI.html"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="alexander-ilg.github.io/feed.xml" title="alexander ilg microblog" />
 
@@ -56,25 +56,30 @@
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">SAP - still inconsistent after 50 years</h1>
+    <h1 class="post-title p-name" itemprop="name headline">How can I find the Sales Area information for a business partner in SAP?</h1>
     <p class="post-meta">
-      <time class="dt-published" datetime="2022-04-21T07:42:00+02:00" itemprop="datePublished">Apr 21, 2022
+      <time class="dt-published" datetime="2022-05-04T02:42:42+02:00" itemprop="datePublished">May 4, 2022
       </time></p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <p>I know that I am complaining about small, minor things here, but please explain me this:</p>
+    <p>Follow the following steps in the SAP GUI.<br />
+<!--more--></p>
+<ol>
+  <li>Go to transaction <strong>BP</strong></li>
+  <li>Enter the business partner number or search for the partner by other criteria.<br />
+<img src="/assets/bp01.png" alt="SAP GUI Transaction BP" /></li>
+  <li>After selecting the start button, you will see the matching business partners in the table below. Double-click on the one you want to open.</li>
+  <li>When you are on the business partner details dialog, check the field <strong>Display in BP role</strong>. If <strong>Customer</strong> is not selected, please do so.<br />
+<img src="/assets/bp02.png" alt="SAP GUI Transaction BP" /></li>
+  <li>When Customer is selected, the button <strong><em>Sales and Distribution</em></strong> is visible. Select it.<br />
+<img src="/assets/bp03.png" alt="SAP GUI Transaction BP" /></li>
+  <li>On the Sales and Distribution dialog you will find the section <strong><em>Sales Area</em></strong>, where you will find the required information.<br />
+<img src="/assets/bp04.png" alt="SAP GUI Transaction BP" /></li>
+</ol>
 
-<p><img src="/assets/sap-s4hana-inconsistency.jpg" alt="Why SAP???" /></p>
 
-<p>What does the dialog titles <strong>“Hit List 17 Entries”</strong> and <strong>“Table Row 40 Entries”</strong> tell me? Nothing! 
-This is from transaction VA02 (edit sales order) for Inco Terms (left) and Payment Terms (right). I wonder why something like this shipped in the first place and why it was not considered a bug in every single release that went out the door since then.</p>
-
-<p>There are three films and three tv shows with the name “The Hit List”, but I doubt SAP is referring to any of them …</p>
-
-<p><img src="/assets/The_Hit_List.jpeg" alt="The Hit List" /></p>
-
-  </div><a class="u-url" href="/sap/2022/04/21/sap-gui-inconsistency.html" hidden></a>
+  </div><a class="u-url" href="/sap/2022/05/04/howToFindSalesAreaDataForABusinessPartnerSAPGUI.html" hidden></a>
 </article>
 
       </div>

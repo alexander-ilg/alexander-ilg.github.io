@@ -8,6 +8,20 @@
     
       <item>
         <title></title>
+        <description>&lt;h2 id=&quot;the-sap-ux-strategy&quot;&gt;The SAP UX Strategy&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/sapux.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You want proof? &lt;a href=&quot;https://blogs.sap.com/2022/04/27/sap-fiori-for-android-ios-an-all-new-user-experience-for-enterprise-ready-mobile-applications/&quot;&gt;Here&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 09 May 2022 10:08:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/sapux/2022/05/09/sap-ux-overhaul.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/sapux/2022/05/09/sap-ux-overhaul.html</guid>
+      </item>
+    
+      <item>
+        <title></title>
         <description>&lt;p&gt;He is right, isn’t he?&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/musk-developer.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
@@ -304,24 +318,6 @@ If I had asked people what they wanted, they would have said faster horses. Henr
         <pubDate>Thu, 21 Apr 2022 14:52:42 +0200</pubDate>
         <link>alexander-ilg.github.io/sap-cloud-integration/2022/04/21/SalesforceIntegrationWithSAP-CI.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/sap-cloud-integration/2022/04/21/SalesforceIntegrationWithSAP-CI.html</guid>
-      </item>
-    
-      <item>
-        <title>SAP - still inconsistent after 50 years</title>
-        <description>&lt;p&gt;I know that I am complaining about small, minor things here, but please explain me this:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap-s4hana-inconsistency.jpg&quot; alt=&quot;Why SAP???&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;What does the dialog titles &lt;strong&gt;“Hit List 17 Entries”&lt;/strong&gt; and &lt;strong&gt;“Table Row 40 Entries”&lt;/strong&gt; tell me? Nothing! 
-This is from transaction VA02 (edit sales order) for Inco Terms (left) and Payment Terms (right). I wonder why something like this shipped in the first place and why it was not considered a bug in every single release that went out the door since then.&lt;/p&gt;
-
-&lt;p&gt;There are three films and three tv shows with the name “The Hit List”, but I doubt SAP is referring to any of them …&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/The_Hit_List.jpeg&quot; alt=&quot;The Hit List&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Apr 2022 07:42:00 +0200</pubDate>
-        <link>alexander-ilg.github.io/sap/2022/04/21/sap-gui-inconsistency.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/sap/2022/04/21/sap-gui-inconsistency.html</guid>
       </item>
     
   </channel>

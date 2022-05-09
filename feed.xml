@@ -8,6 +8,15 @@
     
       <item>
         <title></title>
+        <description>&lt;p&gt;On the weekend I downloaded my first &lt;strong&gt;&lt;em&gt;torrent&lt;/em&gt;&lt;/strong&gt; in at least ten years. I did not think I will ever need it again, but turned out I was wrong …&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 May 2022 02:42:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/torrent/2022/05/09/torrent-download.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/torrent/2022/05/09/torrent-download.html</guid>
+      </item>
+    
+      <item>
+        <title></title>
         <description>&lt;p&gt;Hard to believe, but this is a thing: &lt;strong&gt;&lt;em&gt;Résumé-Driven Development&lt;/em&gt;&lt;/strong&gt; - introducing technologies and solutions into a project just to have them in your CV afterwards. No wonder so many IT projects fail.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 May 2022 13:42:42 +0200</pubDate>
@@ -311,21 +320,6 @@ This is from transaction VA02 (edit sales order) for Inco Terms (left) and Payme
         <pubDate>Wed, 20 Apr 2022 21:42:28 +0200</pubDate>
         <link>alexander-ilg.github.io/business/2022/04/20/notYourFamily.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/business/2022/04/20/notYourFamily.html</guid>
-      </item>
-    
-      <item>
-        <title>Two Types of Developers</title>
-        <description>&lt;p&gt;I had the plesure to work with two types of developers.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Type one&lt;/strong&gt; is doing what you ask them to do (at most). Sometimes not even that. As I am far away from being perfect, I make mistakes, I write imperfect tickets and specs. The result? Garbage in, garbage out.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Type two&lt;/strong&gt; is questioning what I ask them to do. They propose alternative solutions, they tell me when my tickets are shit and they convert my garbage into something useful.&lt;/p&gt;
-
-&lt;p&gt;I am thankful that I can work with type two at the moment.&lt;/p&gt;
-</description>
-        <pubDate>Wed, 20 Apr 2022 08:36:28 +0200</pubDate>
-        <link>alexander-ilg.github.io/development/2022/04/20/two-types-of-developers.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/development/2022/04/20/two-types-of-developers.html</guid>
       </item>
     
   </channel>

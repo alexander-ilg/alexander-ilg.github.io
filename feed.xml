@@ -7,6 +7,20 @@
     <atom:link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>User Friendly</title>
+        <description>&lt;p&gt;If I hear the term &lt;strong&gt;user friendly&lt;/strong&gt;, I am thinking about UX and software, but the song &lt;strong&gt;&lt;em&gt;User Friendly&lt;/em&gt;&lt;/strong&gt; from &lt;strong&gt;&lt;em&gt;SwizZz&lt;/em&gt;&lt;/strong&gt; is about drug use. Still, I am totally into it at the moment.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/swizzz.jpg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/umayIWxWOYU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 09 May 2022 18:42:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/hip-hop/2022/05/09/user-friendly.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/hip-hop/2022/05/09/user-friendly.html</guid>
+      </item>
+    
+      <item>
         <title></title>
         <description>&lt;h2 id=&quot;the-sap-ux-strategy&quot;&gt;The SAP UX Strategy&lt;/h2&gt;
 
@@ -299,25 +313,6 @@ If I had asked people what they wanted, they would have said faster horses. Henr
         <pubDate>Thu, 21 Apr 2022 15:32:42 +0200</pubDate>
         <link>alexander-ilg.github.io/movilitas/2022/04/21/judgeTheCharacterOfAMan.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/movilitas/2022/04/21/judgeTheCharacterOfAMan.html</guid>
-      </item>
-    
-      <item>
-        <title>Connecting SAP Cloud Integration with Salesforce</title>
-        <description>&lt;p&gt;I found an excellent blog, that describes how &lt;strong&gt;SAP Cloud Integration&lt;/strong&gt; can be used to integrate into &lt;strong&gt;Salesforce&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/SAP-CloudIntegration-with-Saleforce.jpg&quot; alt=&quot;SAP Cloud Integration&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This looks unnecessary complex to me. I have never worked with SAP Cloud Integration, but with a number of other integration tools, where I did a lot more (real life integration of complex business processes) than what is shown in this blog and it was much simpler. But I guess SAP customers are used to this and don’t question it. In 2022, software should be better than this!&lt;/p&gt;
-
-&lt;p&gt;The two parts of the blog can be found here:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.sap.com/2021/05/21/sap-cloud-integration-with-salesforce/&quot;&gt;SAP Cloud Integration with Salesforce – Part 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://blogs.sap.com/2021/06/20/sap-cloud-integration-with-salesforce-part-2/&quot;&gt;SAP Cloud Integration with Salesforce – Part 2&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 21 Apr 2022 14:52:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/sap-cloud-integration/2022/04/21/SalesforceIntegrationWithSAP-CI.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/sap-cloud-integration/2022/04/21/SalesforceIntegrationWithSAP-CI.html</guid>
       </item>
     
   </channel>

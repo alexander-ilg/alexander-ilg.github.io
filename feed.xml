@@ -7,6 +7,30 @@
     <atom:link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>How to create a product hierarchy in SAP</title>
+        <description>&lt;p&gt;In this blog I describe how to create a product hierarchy in SAP. 
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Go to transaction &lt;strong&gt;&lt;em&gt;spro&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Select &lt;strong&gt;&lt;em&gt;SAP Reference Image&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap_product_hierarchy/prodhier01.png&quot; alt=&quot;SAP Product Hierarchies&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;In the tree, navigate to Logistics General &amp;gt; Material Master &amp;gt; Settings for Key Fields &amp;gt; Data Relevant to Sales and Distribution &amp;gt; Define Product Hierarchies&lt;br /&gt;
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap_product_hierarchy/prodhier02.png&quot; alt=&quot;SAP Product Hierarchies&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Select &lt;strong&gt;&lt;em&gt;Maintenance: Prod. Hier.&lt;/em&gt;&lt;/strong&gt; and click the search icon&lt;br /&gt;
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap_product_hierarchy/prodhier03.png&quot; alt=&quot;SAP Product Hierarchies&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Press the “new Entries” button. 
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap_product_hierarchy/prodhier04.png&quot; alt=&quot;SAP Product Hierarchies&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Enter the new entries one level at a time. You can’t create multiple levels without saving in-between.&lt;br /&gt;
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap_product_hierarchy/prodhier05.png&quot; alt=&quot;SAP Product Hierarchies&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;You will need a transport request to be able to save.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 10 May 2022 14:42:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/sap/2022/05/10/How-to-create-a-product-hierarchy-in-SAP.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/sap/2022/05/10/How-to-create-a-product-hierarchy-in-SAP.html</guid>
+      </item>
+    
+      <item>
         <title>Citrix security is a joke</title>
         <description>&lt;p&gt;Last year I worked nine months on a project as a UX designer. Access to email and MS Teams was only possible via Citrix, which worked ok. But most of the time I worked locally on my Mac with Sketch. Every now and then, when I wanted to check my emails, I found the Citrix/Window session locked:&lt;/p&gt;
 
@@ -291,25 +315,6 @@ If I had asked people what they wanted, they would have said faster horses. Henr
         <pubDate>Mon, 25 Apr 2022 02:42:42 +0200</pubDate>
         <link>alexander-ilg.github.io/business/2022/04/25/people-business.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/business/2022/04/25/people-business.html</guid>
-      </item>
-    
-      <item>
-        <title>jorganizer - first steps in Java</title>
-        <description>&lt;p&gt;Until 2001 I was mainly developing in &lt;strong&gt;Perl&lt;/strong&gt;, but I wanted to get into the &lt;strong&gt;Java&lt;/strong&gt; space (which was a smart move, as it got me a job as Java developer at &lt;strong&gt;SAP&lt;/strong&gt;).&lt;/p&gt;
-
-&lt;p&gt;How do you best learn a new language? Going through tutorials is only working until a certain point, then I need to get my hands dirty and do a real project.&lt;/p&gt;
-
-&lt;p&gt;In 2002, I started to write a webbased PIM with Java, running on a Tomcat server - it was called &lt;strong&gt;jorganizer&lt;/strong&gt; and I shared it on SourceForge. The &lt;a href=&quot;http://jorganizer.sourceforge.net/index.html&quot;&gt;website&lt;/a&gt; is still up today, but I didn’t touch it the last 20 years.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/jorganizer.jpg&quot; alt=&quot;jorganizer&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;This was at a time when we dealed with &lt;strong&gt;Microsoft Internet Explorer&lt;/strong&gt; and &lt;strong&gt;Netscape Navigator&lt;/strong&gt;, a time where PNG was not yet available. At least I am sure it is not using &lt;strong&gt;&lt;em&gt;Log4J&lt;/em&gt;&lt;/strong&gt; ;-)&lt;/p&gt;
-
-&lt;p&gt;I wonder if the code would still run today on a modern tomcat.&lt;/p&gt;
-</description>
-        <pubDate>Sun, 24 Apr 2022 02:42:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/backinthedays/2022/04/24/jorganizer.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/backinthedays/2022/04/24/jorganizer.html</guid>
       </item>
     
   </channel>

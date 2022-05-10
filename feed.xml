@@ -7,6 +7,35 @@
     <atom:link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Citrix security is a joke</title>
+        <description>&lt;p&gt;Last year I worked nine months on a project as a UX designer. Access to email and MS Teams was only possible via Citrix, which worked ok. But most of the time I worked locally on my Mac with Sketch. Every now and then, when I wanted to check my emails, I found the Citrix session locked:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Please enter your password&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;If no activity was detected, Windows was locked and of course I did not have the permission to change that behavior. Great! I was sure I would not survive the nine months like this.&lt;/p&gt;
+
+&lt;p&gt;Thanks god there is Google and StackOverflow. There I found a small Visual Basic script with just 6 lines of code, that solved my problem:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-lang-vbs&quot;&gt;Dim objResult
+
+Set objShell = WScript.CreateObject(&quot;WScript.Shell&quot;)    
+
+Do While True
+  objResult = objShell.sendkeys(&quot;{NUMLOCK}{NUMLOCK}&quot;)
+  Wscript.Sleep (6000)
+Loop
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;The script is triggering the numlock key every 6 seconds and that is preventing the autolock. Breaking security can be so simple.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/citrix-am-i-a-joke-to-you.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 May 2022 11:42:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/windows/2022/05/10/windows-security-is-a-joke.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/windows/2022/05/10/windows-security-is-a-joke.html</guid>
+      </item>
+    
+      <item>
         <title></title>
         <description>&lt;h2 id=&quot;you-are-your-choices&quot;&gt;YOU ARE YOUR CHOICES&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/you-are-your-choices.jpg&quot; alt=&quot;Seneca&quot; /&gt;&lt;/p&gt;
@@ -281,38 +310,6 @@ If I had asked people what they wanted, they would have said faster horses. Henr
         <pubDate>Sun, 24 Apr 2022 02:42:42 +0200</pubDate>
         <link>alexander-ilg.github.io/backinthedays/2022/04/24/jorganizer.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/backinthedays/2022/04/24/jorganizer.html</guid>
-      </item>
-    
-      <item>
-        <title>How Germans turn their kids into little Psychopaths</title>
-        <description>&lt;p&gt;From very young age, German kids hear stories that turn them into little psychopaths. It worked with me.&lt;/p&gt;
-
-&lt;p&gt;On the one side, there are fary tails like &lt;strong&gt;Little Red Riding Hood&lt;/strong&gt;, where a wolf eats humans or Hensel &amp;amp; Gretel, where a witch plans to eat children. I guess these stories are now also internationally very popular, but let me introduce you to a book that my mother and grandmother used to read to me when I was three years old:
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;h2 id=&quot;struwwelpeter&quot;&gt;Struwwelpeter&lt;/h2&gt;
-
-&lt;p&gt;(Peter with the messy hair)
-&lt;img src=&quot;https://alexander-ilg.github.io/assets/struwwelpeter/struwwelpeter.jpg&quot; alt=&quot;Struwwelpeter&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;It contains stories that should teach children to listen to their parents. Funny stuff if you are not a small child.&lt;/p&gt;
-
-&lt;p&gt;There is the story about the boy that always sucks on his thumbs, even his mother tells him to stop. He still does it while his mother is not home, but if you do that kids, his guy will come and cut off both your thumbs:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/struwwelpeter/daumenlutscher.jpg&quot; alt=&quot;Daumenlutscher&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Or this nice story about Kasper, who did not want to eat his soup. After 5 days, he starved to death. I wish I could loose weight so fast.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/struwwelpeter/suppenkasper.jpg&quot; alt=&quot;Suppenkasper&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Finally, this poor girl was playing with a lighter and guess what - she burned to death.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/struwwelpeter/feuer.jpg&quot; alt=&quot;Feuer&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Now you know why we started two world wars and invented software like SAP …&lt;/p&gt;
-</description>
-        <pubDate>Fri, 22 Apr 2022 02:42:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/fun/2022/04/22/Struwwelpeter.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/fun/2022/04/22/Struwwelpeter.html</guid>
       </item>
     
   </channel>

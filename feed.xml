@@ -7,6 +7,16 @@
     <atom:link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/earn-learn-or-quit.jpg&quot; alt=&quot;&quot; /&gt;
+At every job you should either learn or earn. Either is fine. Both is best. But if it’s neither, quit. &lt;strong&gt;&lt;em&gt;Garry Tan (VC)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 11 May 2022 13:42:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/2022/05/11/learn-earn-or-quit.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/2022/05/11/learn-earn-or-quit.html</guid>
+      </item>
+    
+      <item>
         <title>How to create a product hierarchy in SAP</title>
         <description>&lt;p&gt;In this blog I describe how to create a product hierarchy in SAP. 
 &lt;!--more--&gt;&lt;/p&gt;
@@ -300,21 +310,6 @@ If I had asked people what they wanted, they would have said faster horses. Henr
         <pubDate>Wed, 27 Apr 2022 18:42:42 +0200</pubDate>
         <link>alexander-ilg.github.io/electric/2022/04/27/With-VW-ID3-to-Berlin.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/electric/2022/04/27/With-VW-ID3-to-Berlin.html</guid>
-      </item>
-    
-      <item>
-        <title>People Business</title>
-        <description>&lt;p&gt;I am developing, selling, and implementing software since more than 20 years. During that time, I participated in many requests for proposal, many sales pitches and I competed against a lot of competitors. You might think that the best software always wins, but that is not the case. Many times, I heard things like &lt;strong&gt;&lt;em&gt;“we choose you because you made the most competent impression”&lt;/em&gt;&lt;/strong&gt; or &lt;strong&gt;&lt;em&gt;“you worked hardest during the POC”&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;This shows that it is at least 50% people business. Your impression as a software provider is as important as your software. I learned this very early in my career. I was hired by a company in Cologne, Germany to evaluate several e-commerce providers for a new website - among them Oracle and SAP. After the evaluation it was clear to me that Oracle has the far better software based on J2EE, while SAP was pitching it proprietary ITS technology. At the end they still went with SAP. Why? Because the sales pitch was superior to the one from Oracle (they showed up totally unprepared) and the CIO told me &lt;strong&gt;&lt;em&gt;“The way they showed up here and pitched the solutions, the same way they will do the implementation. I have no good feeling with Oracle”&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;I think that I make a good impression most of the time and I see that as a competitive advantage. COVID hurt in that regard, as there were no face-to-face meetings. Let’s hope we are soon back to onsite sales demos.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/corona.jpg&quot; alt=&quot;Corona&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Apr 2022 02:42:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/business/2022/04/25/people-business.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/business/2022/04/25/people-business.html</guid>
       </item>
     
   </channel>

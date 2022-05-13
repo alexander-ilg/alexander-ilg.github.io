@@ -7,6 +7,27 @@
     <atom:link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>SAP - Change the credit limit for a customer</title>
+        <description>&lt;p&gt;This is everything, but not straight forward. If you don’t select the checkboxes as discribed in step 2, it might not work.
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Go to transaction &lt;strong&gt;FD32&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;On the initial screen, enter customer number, credit control area and - &lt;strong&gt;&lt;em&gt;very important&lt;/em&gt;&lt;/strong&gt; - select exactly the two checkboxes for “Central Data” and “Status”&lt;br /&gt;
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap-credit-limit01.png&quot; alt=&quot;Change the credit limit in SAP&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Enter the &lt;strong&gt;&lt;em&gt;Individual Limit&lt;/em&gt;&lt;/strong&gt; and press return&lt;br /&gt;
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap-credit-limit02.png&quot; alt=&quot;Change the credit limit in SAP&quot; /&gt;&lt;/li&gt;
+  &lt;li&gt;Enter the &lt;strong&gt;&lt;em&gt;Credit Limit&lt;/em&gt;&lt;/strong&gt; and click save&lt;br /&gt;
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap-credit-limit03.png&quot; alt=&quot;Change the credit limit in SAP&quot; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Done.&lt;/strong&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 13 May 2022 14:42:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/sap/2022/05/13/sap-change-credit-limit.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/sap/2022/05/13/sap-change-credit-limit.html</guid>
+      </item>
+    
+      <item>
         <title></title>
         <description>&lt;p&gt;I tried to call the tax office today and their voice mail told that they are &lt;strong&gt;only available from 8:00 to 10:00am because of Corona&lt;/strong&gt;. You can’t leave a message either. I called them at 9:00am. &lt;strong&gt;&lt;em&gt;WTF!?!?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
@@ -295,17 +316,6 @@ If I had asked people what they wanted, they would have said faster horses. Henr
         <pubDate>Thu, 28 Apr 2022 02:42:42 +0200</pubDate>
         <link>alexander-ilg.github.io/henryford/2022/04/28/do-not-give-users-what-they-want.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/henryford/2022/04/28/do-not-give-users-what-they-want.html</guid>
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;h2 id=&quot;berlin-27th-april-2022&quot;&gt;Berlin, 27th April 2022&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/berlin_2022-04-27.jpg&quot; alt=&quot;Berlin Wall&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 27 Apr 2022 21:00:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/peace/2022/04/27/berlin-april-2022.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/peace/2022/04/27/berlin-april-2022.html</guid>
       </item>
     
   </channel>

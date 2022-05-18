@@ -7,6 +7,17 @@
     <atom:link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/munich_graffiti.jpg&quot; alt=&quot;Graffiti&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Graffiti in Munich&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 May 2022 02:42:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/hiphop/2022/05/18/munich-graffiti.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/hiphop/2022/05/18/munich-graffiti.html</guid>
+      </item>
+    
+      <item>
         <title>Climate Change - Science Fiction vs. Reality</title>
         <description>&lt;p&gt;I read &lt;strong&gt;The Ministry for the Future&lt;/strong&gt; by &lt;strong&gt;&lt;em&gt;Kim Stanley Robinson&lt;/em&gt;&lt;/strong&gt;, a science fiction book set in the near future.&lt;/p&gt;
 
@@ -315,17 +326,6 @@ I made 660 copies of it and still today you can find them online, for example &l
         <pubDate>Fri, 29 Apr 2022 08:42:42 +0200</pubDate>
         <link>alexander-ilg.github.io/travel/2022/04/29/berlin-april-2022.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/travel/2022/04/29/berlin-april-2022.html</guid>
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;I consume most of my news via RSS feeds and I use &lt;a href=&quot;https://reeder.app&quot;&gt;Reeder&lt;/a&gt; on Mac and iOS.&lt;br /&gt;
-&lt;img src=&quot;https://alexander-ilg.github.io/assets/reeder.png&quot; alt=&quot;Reeder&quot; /&gt;&lt;br /&gt;
-With the latest version it is possible to add YouTube channels, Twitter and Reddit. Now all my news are finally in one place.&lt;/p&gt;
-</description>
-        <pubDate>Fri, 29 Apr 2022 02:42:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/news/2022/04/29/reeder.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/news/2022/04/29/reeder.html</guid>
       </item>
     
   </channel>

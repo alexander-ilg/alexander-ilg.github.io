@@ -8,6 +8,16 @@
     
       <item>
         <title></title>
+        <description>&lt;p&gt;Great ad by DuckDuckGo&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/QWpPyYlZXNI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 21 May 2022 05:42:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/ad/2022/05/21/greatAd-DuckDuckGo.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/ad/2022/05/21/greatAd-DuckDuckGo.html</guid>
+      </item>
+    
+      <item>
+        <title></title>
         <description>&lt;h2 id=&quot;happy-birthday&quot;&gt;Happy Birthday&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/walter-ilg.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
@@ -304,16 +314,6 @@ I made 660 copies of it and still today you can find them online, for example &l
         <pubDate>Wed, 04 May 2022 21:42:42 +0200</pubDate>
         <link>alexander-ilg.github.io/hip-hop/2022/05/04/space-attack.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/hip-hop/2022/05/04/space-attack.html</guid>
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;I don’t understand why so many people dislike &lt;strong&gt;Electron&lt;/strong&gt; apps. I am writting this post in one - &lt;strong&gt;&lt;em&gt;Visual Studio Code&lt;/em&gt;&lt;/strong&gt;. Yes, native is great, but I fully understand companies that target Windows and the Mac to go the Electron way. 
-&lt;!--more--&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 04 May 2022 17:42:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/ux/2022/05/04/native-vs-electron-apps.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/ux/2022/05/04/native-vs-electron-apps.html</guid>
       </item>
     
   </channel>

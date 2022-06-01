@@ -7,6 +7,23 @@
     <atom:link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Mental Employee Health Appreciation Day</title>
+        <description>&lt;p&gt;Some companies celebrate the 3rd March - &lt;strong&gt;&lt;em&gt;Employee Appreciation Day&lt;/em&gt;&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Other companies have a &lt;a href=&quot;https://news.sap.com/2022/05/sap-mental-health-day-2022/&quot;&gt;&lt;strong&gt;&lt;em&gt;Mental Health Day&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;. 
+&lt;!--more--&gt;  &lt;br /&gt;
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/logo-vigience.png&quot; alt=&quot;Vigience&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Where I work, at &lt;strong&gt;Vigience&lt;/strong&gt;, we don’t have that. Here, employees are appreciated 365 days per year. Here, we take care of our mental health 12 months per year.&lt;/p&gt;
+
+&lt;p&gt;In such an environment, you don’t need some special day for marketing purposes.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 01 Jun 2022 11:42:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/work/2022/06/01/employee-appreciation-day.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/work/2022/06/01/employee-appreciation-day.html</guid>
+      </item>
+    
+      <item>
         <title></title>
         <description>&lt;h2 id=&quot;545am&quot;&gt;5:45am&lt;/h2&gt;
 
@@ -263,17 +280,6 @@ Loop
         <pubDate>Mon, 09 May 2022 10:08:42 +0200</pubDate>
         <link>alexander-ilg.github.io/sapux/2022/05/09/sap-ux-overhaul.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/sapux/2022/05/09/sap-ux-overhaul.html</guid>
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;He is right, isn’t he?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/musk-developer.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 09 May 2022 09:42:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/elonmusk/2022/05/09/managersInSoftwareMustWriteGreatSoftware.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/elonmusk/2022/05/09/managersInSoftwareMustWriteGreatSoftware.html</guid>
       </item>
     
   </channel>

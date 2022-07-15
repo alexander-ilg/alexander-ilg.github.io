@@ -8,6 +8,17 @@
     
       <item>
         <title></title>
+        <description>&lt;p&gt;Horgen, Switzerland&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/horgen.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 15 Jul 2022 02:42:42 +0200</pubDate>
+        <link>alexander-ilg.github.io/space/2022/07/15/horgen.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/space/2022/07/15/horgen.html</guid>
+      </item>
+    
+      <item>
+        <title></title>
         <description>&lt;p&gt;Finally, after all this time, I catched Corona. So far I am feeling sick, but not too bad. I guess the three vaccine shots are helping.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/corona.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
@@ -251,35 +262,6 @@ At every job you should either learn or earn. Either is fine. Both is best. But 
         <pubDate>Tue, 10 May 2022 14:42:42 +0200</pubDate>
         <link>alexander-ilg.github.io/sap/2022/05/10/How-to-create-a-product-hierarchy-in-SAP.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/sap/2022/05/10/How-to-create-a-product-hierarchy-in-SAP.html</guid>
-      </item>
-    
-      <item>
-        <title>Citrix security is a joke</title>
-        <description>&lt;p&gt;Last year I worked nine months on a project as a UX designer. Access to email and MS Teams was only possible via Citrix, which worked ok. But most of the time I worked locally on my Mac with Sketch. Every now and then, when I wanted to check my emails, I found the Citrix/Window session locked:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;em&gt;Please enter your password&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;If no activity was detected, Windows was locked and of course I did not have the permission to change that behavior. Great! I was sure I would not survive the nine months like this.&lt;/p&gt;
-
-&lt;p&gt;Thanks god there is Google and StackOverflow. There I found a small Visual Basic script with just 6 lines of code, that solved my problem:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&quot;language-lang-vbs&quot;&gt;Dim objResult
-
-Set objShell = WScript.CreateObject(&quot;WScript.Shell&quot;)    
-
-Do While True
-  objResult = objShell.sendkeys(&quot;{NUMLOCK}{NUMLOCK}&quot;)
-  Wscript.Sleep (6000)
-Loop
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The script is triggering the numlock key every 6 seconds and that is preventing the autolock. Breaking security can be so simple.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://alexander-ilg.github.io/assets/citrix-am-i-a-joke-to-you.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 10 May 2022 11:42:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/windows/2022/05/10/windows-security-is-a-joke.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/windows/2022/05/10/windows-security-is-a-joke.html</guid>
       </item>
     
   </channel>

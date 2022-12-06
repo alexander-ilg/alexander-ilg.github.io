@@ -7,6 +7,29 @@
     <atom:link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Migrate from the SAP CRM on premise to Salesforce</title>
+        <description>&lt;p&gt;Migrating from SAP CRM on premise to Salesforce can provide numerous benefits for businesses, including better usability and less system maintenance. However, the migration process can be complex and it’s important to carefully plan and execute it in order to ensure a successful outcome. &lt;br /&gt;
+&lt;!--more--&gt;  &lt;br /&gt;
+One of the key considerations when migrating from SAP CRM on premise to Salesforce is the state of your current data. Before starting the migration process, it’s important to review and assess the data in SAP CRM to ensure that it is accurate and complete. This will help prevent any issues during the migration and ensure that your data is properly migrated to Salesforce.&lt;/p&gt;
+
+&lt;p&gt;Another important factor to consider is the type of data that will be migrated. Salesforce and SAP CRM have different data structures and capabilities, so it’s important to carefully plan how the data will be migrated from one system to the other. This may involve mapping the data fields between the two systems and potentially making some adjustments to ensure that the data is properly migrated.&lt;/p&gt;
+
+&lt;p&gt;In addition to the data itself, it’s also important to consider the various processes and workflows that are currently in place in SAP CRM. These will need to be migrated to Salesforce, so it’s important to carefully plan how this will be done in order to avoid any disruptions to your business operations.&lt;/p&gt;
+
+&lt;p&gt;Once the migration plan is in place, it’s important to thoroughly test the migration process to ensure that it is functioning as expected and that the data is being migrated properly. This is also a good time to provide training to your team on how to use Salesforce, as the migration will likely involve changes to their workflow and processes.&lt;/p&gt;
+
+&lt;p&gt;After the migration is complete, it’s important to closely monitor the new Salesforce system to ensure that it is functioning properly and providing the intended benefits to your business. This may involve making adjustments to the system and providing ongoing support and maintenance to ensure that it continues to meet your business needs.&lt;/p&gt;
+
+&lt;p&gt;Overall, migrating from SAP CRM on premise to Salesforce can be a complex process, but with careful planning and execution, it can provide numerous benefits for businesses. It’s important to carefully consider the various factors involved in the migration in order to ensure a successful outcome.&lt;/p&gt;
+
+&lt;p&gt;Generated with OpenAI (with minor adjustments)&lt;/p&gt;
+</description>
+        <pubDate>Tue, 06 Dec 2022 01:42:42 +0100</pubDate>
+        <link>alexander-ilg.github.io/sapcrm/2022/12/06/migrationFromSAPCRMonPremiseToSalesforce.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/sapcrm/2022/12/06/migrationFromSAPCRMonPremiseToSalesforce.html</guid>
+      </item>
+    
+      <item>
         <title></title>
         <description>&lt;p&gt;Horgen, Switzerland&lt;/p&gt;
 
@@ -238,30 +261,6 @@ At every job you should either learn or earn. Either is fine. Both is best. But 
         <pubDate>Wed, 11 May 2022 13:42:42 +0200</pubDate>
         <link>alexander-ilg.github.io/2022/05/11/learn-earn-or-quit.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/2022/05/11/learn-earn-or-quit.html</guid>
-      </item>
-    
-      <item>
-        <title>How to create a product hierarchy in SAP</title>
-        <description>&lt;p&gt;In this blog I describe how to create a product hierarchy in SAP. 
-&lt;!--more--&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;Go to transaction &lt;strong&gt;&lt;em&gt;spro&lt;/em&gt;&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Select &lt;strong&gt;&lt;em&gt;SAP Reference Image&lt;/em&gt;&lt;/strong&gt;&lt;br /&gt;
-&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap_product_hierarchy/prodhier01.png&quot; alt=&quot;SAP Product Hierarchies&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;In the tree, navigate to Logistics General &amp;gt; Material Master &amp;gt; Settings for Key Fields &amp;gt; Data Relevant to Sales and Distribution &amp;gt; Define Product Hierarchies&lt;br /&gt;
-&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap_product_hierarchy/prodhier02.png&quot; alt=&quot;SAP Product Hierarchies&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Select &lt;strong&gt;&lt;em&gt;Maintenance: Prod. Hier.&lt;/em&gt;&lt;/strong&gt; and click the search icon&lt;br /&gt;
-&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap_product_hierarchy/prodhier03.png&quot; alt=&quot;SAP Product Hierarchies&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Press the “new Entries” button. 
-&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap_product_hierarchy/prodhier04.png&quot; alt=&quot;SAP Product Hierarchies&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;Enter the new entries one level at a time. You can’t create multiple levels without saving in-between.&lt;br /&gt;
-&lt;img src=&quot;https://alexander-ilg.github.io/assets/sap_product_hierarchy/prodhier05.png&quot; alt=&quot;SAP Product Hierarchies&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;You will need a transport request to be able to save.&lt;/li&gt;
-&lt;/ol&gt;
-</description>
-        <pubDate>Tue, 10 May 2022 14:42:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/sap/2022/05/10/How-to-create-a-product-hierarchy-in-SAP.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/sap/2022/05/10/How-to-create-a-product-hierarchy-in-SAP.html</guid>
       </item>
     
   </channel>

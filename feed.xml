@@ -7,6 +7,28 @@
     <atom:link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Recipe for Spaghetti Carbonara</title>
+        <description>&lt;p&gt;Hey, wanna know how to make some spaghetti carbonara? It’s super easy, and you don’t even have to care about anything to make it. Here’s how to do it …
+&lt;!--more--&gt; &lt;br /&gt;
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/SpaghettiCarbonara.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Start by boiling a pot of water and cooking some spaghetti according to the package instructions. Don’t worry about measuring out the right amount or using good quality pasta - just toss in a handful of whatever you have lying around and let it cook until it’s mushy and overcooked.&lt;/li&gt;
+  &lt;li&gt;While the pasta is cooking, heat up a frying pan and add some bacon (or whatever meat you have on hand). Cook it until it’s crispy and burnt, because who cares about flavor or texture?&lt;/li&gt;
+  &lt;li&gt;In a separate bowl, crack a few eggs and whisk them together with some Parmesan cheese and black pepper. Don’t worry about using the right ratio of ingredients or mixing them well - just dump everything in and give it a quick stir.&lt;/li&gt;
+  &lt;li&gt;When the pasta is done, drain it and toss it into the frying pan with the bacon. Then, pour the egg and cheese mixture over the top and stir it all together until it’s coated in a gooey, greasy mess.&lt;/li&gt;
+  &lt;li&gt;Serve the spaghetti carbonara on a plate and top it with some more Parmesan cheese and black pepper, because who cares about presentation or taste?&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And that’s it! You’ve just made a delicious (or not) meal of spaghetti carbonara without caring about anything. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Text generated with OpenAI (with minor adjustments), images done with Stable Diffusion&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 08 Dec 2022 01:42:42 +0100</pubDate>
+        <link>alexander-ilg.github.io/recipe/2022/12/08/spaghettiCarbonara.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/recipe/2022/12/08/spaghettiCarbonara.html</guid>
+      </item>
+    
+      <item>
         <title>Salesforce Sales Cloud explained to 6-year-old children</title>
         <description>&lt;p&gt;Hi kids, my name is Alex, and today I’m going to tell you about a really cool tool called Salesforce Sales Cloud.&lt;br /&gt;
 &lt;!--more--&gt;  &lt;br /&gt;
@@ -265,15 +287,6 @@ The book opens with a devastating heat wave in India and follows the path of man
         <pubDate>Fri, 13 May 2022 14:42:42 +0200</pubDate>
         <link>alexander-ilg.github.io/sap/2022/05/13/sap-change-credit-limit.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/sap/2022/05/13/sap-change-credit-limit.html</guid>
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;I tried to call the tax office today and their voice mail told that they are &lt;strong&gt;only available from 8:00 to 10:00am because of Corona&lt;/strong&gt;. You can’t leave a message either. I called them at 9:00am. &lt;strong&gt;&lt;em&gt;WTF!?!?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 12 May 2022 02:42:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/2022/05/12/tax-office-fail.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/2022/05/12/tax-office-fail.html</guid>
       </item>
     
   </channel>

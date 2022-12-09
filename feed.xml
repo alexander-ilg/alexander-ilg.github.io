@@ -7,6 +7,35 @@
     <atom:link href="alexander-ilg.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>10 useful apps from the Salesforce AppExchange</title>
+        <description>&lt;p&gt;The Salesforce AppExchange is a marketplace that offers a wide variety of apps and integrations that can be used with the Salesforce platform. These apps can help businesses improve their operations and productivity by providing additional functionality and capabilities. Here are ten of the best apps from the Salesforce AppExchange.&lt;br /&gt;
+&lt;!--more--&gt; &lt;br /&gt;
+&lt;img src=&quot;https://alexander-ilg.github.io/assets/SalesforceAppExchange.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Conga Composer - Conga Composer is an app that allows users to create and send professional-grade documents directly from Salesforce. This app is ideal for businesses that need to generate contracts, quotes, or other documents on a regular basis.&lt;/li&gt;
+  &lt;li&gt;DocuSign - DocuSign is an app that provides electronic signature capabilities for Salesforce users. This app makes it easy for businesses to securely sign and manage documents directly from Salesforce, saving time and reducing the need for paper-based processes.&lt;/li&gt;
+  &lt;li&gt;HubSpot - HubSpot is an app that integrates Salesforce with the popular marketing automation platform of the same name. This app allows businesses to manage and track their marketing efforts directly from Salesforce, providing a seamless experience for sales and marketing teams.&lt;/li&gt;
+  &lt;li&gt;JotForm - JotForm is an app that allows users to create and manage online forms directly from Salesforce. This app is ideal for businesses that need to collect information from customers or clients, such as surveys or contact information.&lt;/li&gt;
+  &lt;li&gt;Lucidchart - Lucidchart is an app that provides a visual diagramming tool for Salesforce users. This app allows businesses to create flowcharts, network diagrams, and other visualizations directly from Salesforce, making it easy to communicate complex ideas and processes.&lt;/li&gt;
+  &lt;li&gt;Mailchimp - Mailchimp is an app that integrates Salesforce with the popular email marketing platform of the same name. This app allows businesses to manage and track their email marketing campaigns directly from Salesforce, providing a seamless experience for sales and marketing teams.&lt;/li&gt;
+  &lt;li&gt;Quip - Quip is an app that provides a collaboration and document management tool for Salesforce users. This app allows teams to collaborate on documents, spreadsheets, and other files directly from Salesforce, making it easy to share and manage information.&lt;/li&gt;
+  &lt;li&gt;Tableau - Tableau is an app that provides data visualization and analysis capabilities for Salesforce users. This app allows businesses to create interactive dashboards and reports directly from Salesforce, making it easy to gain insights and make data-driven decisions.&lt;/li&gt;
+  &lt;li&gt;Workfront - Workfront is an app that provides project and task management capabilities for Salesforce users. This app allows businesses to manage and track their projects and tasks directly from Salesforce, providing a seamless experience for teams.&lt;/li&gt;
+  &lt;li&gt;Overcast – Overcast is an integration app from Vigience that allows to integrate any backend system into Salesforce. It comes with more than 150 predefined, ready-to-use applications that cover the most common business cases for the integration of SAP, Microsoft Dynamics and Oracle NetSuite.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Overall, the Salesforce AppExchange offers a wide variety of apps that can help businesses improve their operations and productivity. These ten apps are some of the best available on the AppExchange and are well worth considering for businesses that use Salesforce.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Text generated with OpenAI (with minor adjustments), images done with Stable Diffusion&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 09 Dec 2022 21:42:42 +0100</pubDate>
+        <link>alexander-ilg.github.io/salesforce/2022/12/09/10AppsFromTheSalesforceAppExchange.html</link>
+        <guid isPermaLink="true">alexander-ilg.github.io/salesforce/2022/12/09/10AppsFromTheSalesforceAppExchange.html</guid>
+      </item>
+    
+      <item>
         <title>Recipe for Spaghetti Carbonara</title>
         <description>&lt;p&gt;Hey, wanna know how to make some spaghetti carbonara? It’s super easy, and you don’t even have to care about anything to make it. Here’s how to do it …
 &lt;!--more--&gt; &lt;br /&gt;
@@ -72,35 +101,6 @@ One of the key considerations when migrating from SAP CRM on premise to Salesfor
         <pubDate>Tue, 06 Dec 2022 01:42:42 +0100</pubDate>
         <link>alexander-ilg.github.io/sapcrm/2022/12/06/migrationFromSAPCRMonPremiseToSalesforce.html</link>
         <guid isPermaLink="true">alexander-ilg.github.io/sapcrm/2022/12/06/migrationFromSAPCRMonPremiseToSalesforce.html</guid>
-      </item>
-    
-      <item>
-        <title>10 useful apps from the Salesforce AppExchange</title>
-        <description>&lt;p&gt;The Salesforce AppExchange is a marketplace that offers a wide variety of apps and integrations that can be used with the Salesforce platform. These apps can help businesses improve their operations and productivity by providing additional functionality and capabilities. Here are ten of the best apps from the Salesforce AppExchange.&lt;br /&gt;
-&lt;!--more--&gt; &lt;br /&gt;
-&lt;img src=&quot;https://alexander-ilg.github.io/assets/SalesforceAppExchange.jpg&quot; alt=&quot;ImageDescription&quot; /&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Conga Composer - Conga Composer is an app that allows users to create and send professional-grade documents directly from Salesforce. This app is ideal for businesses that need to generate contracts, quotes, or other documents on a regular basis.&lt;/li&gt;
-  &lt;li&gt;DocuSign - DocuSign is an app that provides electronic signature capabilities for Salesforce users. This app makes it easy for businesses to securely sign and manage documents directly from Salesforce, saving time and reducing the need for paper-based processes.&lt;/li&gt;
-  &lt;li&gt;HubSpot - HubSpot is an app that integrates Salesforce with the popular marketing automation platform of the same name. This app allows businesses to manage and track their marketing efforts directly from Salesforce, providing a seamless experience for sales and marketing teams.&lt;/li&gt;
-  &lt;li&gt;JotForm - JotForm is an app that allows users to create and manage online forms directly from Salesforce. This app is ideal for businesses that need to collect information from customers or clients, such as surveys or contact information.&lt;/li&gt;
-  &lt;li&gt;Lucidchart - Lucidchart is an app that provides a visual diagramming tool for Salesforce users. This app allows businesses to create flowcharts, network diagrams, and other visualizations directly from Salesforce, making it easy to communicate complex ideas and processes.&lt;/li&gt;
-  &lt;li&gt;Mailchimp - Mailchimp is an app that integrates Salesforce with the popular email marketing platform of the same name. This app allows businesses to manage and track their email marketing campaigns directly from Salesforce, providing a seamless experience for sales and marketing teams.&lt;/li&gt;
-  &lt;li&gt;Quip - Quip is an app that provides a collaboration and document management tool for Salesforce users. This app allows teams to collaborate on documents, spreadsheets, and other files directly from Salesforce, making it easy to share and manage information.&lt;/li&gt;
-  &lt;li&gt;Tableau - Tableau is an app that provides data visualization and analysis capabilities for Salesforce users. This app allows businesses to create interactive dashboards and reports directly from Salesforce, making it easy to gain insights and make data-driven decisions.&lt;/li&gt;
-  &lt;li&gt;Workfront - Workfront is an app that provides project and task management capabilities for Salesforce users. This app allows businesses to manage and track their projects and tasks directly from Salesforce, providing a seamless experience for teams.&lt;/li&gt;
-  &lt;li&gt;Overcast – Overcast is an integration app from Vigience that allows to integrate any backend system into Salesforce. It comes with more than 150 predefined, ready-to-use applications that cover the most common business cases for the integration of SAP, Microsoft Dynamics and Oracle NetSuite.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Overall, the Salesforce AppExchange offers a wide variety of apps that can help businesses improve their operations and productivity. These ten apps are some of the best available on the AppExchange and are well worth considering for businesses that use Salesforce.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Text generated with OpenAI (with minor adjustments), images done with Stable Diffusion&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Wed, 21 Sep 2022 22:42:42 +0200</pubDate>
-        <link>alexander-ilg.github.io/salesforce/2022/09/21/10AppsFromTheSalesforceAppExchange.html</link>
-        <guid isPermaLink="true">alexander-ilg.github.io/salesforce/2022/09/21/10AppsFromTheSalesforceAppExchange.html</guid>
       </item>
     
       <item>
